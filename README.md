@@ -11,6 +11,20 @@ The included templates are:
 - 2-layer 1 oz copper 
 - 2-layer 0.5 oz copper
 
+# How to Use Templates in KiCAD 
+
+To use these templates in KiCAD: 
+
+- clone repo to local directory of choice 
+- open KiCAD 
+- select 'file' 
+- click 'New Project from Template' 
+- click 'User Templates
+- select the local repo directory
+- select your template of interest
+
+A new KiCAD project will be created using the template you have selected. 
+
 # Contribution 
 
 **Rules for Contribution** 
