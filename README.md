@@ -8,6 +8,7 @@ Design rules for PCBway PCBs are generated using the [PCBway design rules](https
 The included templates are: 
 
 **Flex PCB Templates** 
+- 4-layer 1 oz outer 0.5 oz inner FR4 PCB
 - 2-layer 1 oz flex PCB 
 - 2-layer 0.5 oz flex PCB
 - 1-layer 1 oz aluminum PCB

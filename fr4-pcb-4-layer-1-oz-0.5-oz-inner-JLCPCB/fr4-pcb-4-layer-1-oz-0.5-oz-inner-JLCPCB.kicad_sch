@@ -1,0 +1,19 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "9ee94a87-2af8-4146-8192-064bd5cb0cbd")
+	(paper "A4")
+	(title_block
+		(title "flat-flex-pcb-JLCPCB")
+		(date "[YEAR.MONTH.DAY]")
+		(rev "Revision Letter (A-Z)")
+		(company "Rack Robotics, Inc.")
+	)
+	(lib_symbols)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
