@@ -7,10 +7,15 @@ Design rules for PCBway PCBs are generated using the [PCBway design rules](https
 # Templates 
 The included templates are: 
 
-**Flex PCB Templates** 
+**FR4 PCB Templates** 
+- RP2040 Microcontroller, 4-layer 1 oz outer 0.5 oz inner FR4 PCB
 - 4-layer 1 oz outer 0.5 oz inner FR4 PCB
+
+**Flex PCB Templates**
 - 2-layer 1 oz flex PCB 
 - 2-layer 0.5 oz flex PCB
+
+**Aluminum PCB Templates**
 - 1-layer 1 oz aluminum PCB
 
 # How to Use Templates in KiCAD 

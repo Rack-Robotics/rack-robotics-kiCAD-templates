@@ -5,9 +5,9 @@
 	(uuid "9ee94a87-2af8-4146-8192-064bd5cb0cbd")
 	(paper "A4")
 	(title_block
-		(title "flat-flex-pcb-JLCPCB")
+		(title "FLEX-PCB-2-LAYER-1-OZ-JLCPCB")
 		(date "[YEAR.MONTH.DAY]")
-		(rev "Revision Letter (A-Z)")
+		(rev "RevA")
 		(company "Rack Robotics, Inc.")
 	)
 	(lib_symbols)
