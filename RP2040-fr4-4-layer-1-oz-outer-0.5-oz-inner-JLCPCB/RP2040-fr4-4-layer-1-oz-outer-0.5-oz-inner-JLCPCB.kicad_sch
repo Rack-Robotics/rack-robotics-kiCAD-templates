@@ -3850,7 +3850,7 @@
 		)
 		(uuid "25014b0b-49da-4abf-860e-dedbac24f4e5")
 	)
-	(label "USB_DM"
+	(label "P_USB_N"
 		(at 267.97 38.1 0)
 		(fields_autoplaced yes)
 		(effects
@@ -3949,7 +3949,7 @@
 		)
 		(uuid "8e79a08d-850b-4f5e-882a-d012a5c931ef")
 	)
-	(label "USB_DP"
+	(label "P_USB_P"
 		(at 97.79 90.17 180)
 		(fields_autoplaced yes)
 		(effects
@@ -4070,7 +4070,7 @@
 		)
 		(uuid "e8ee6886-9d62-4954-b463-a07c05897c42")
 	)
-	(label "USB_DP"
+	(label "P_USB_P"
 		(at 267.97 31.75 0)
 		(fields_autoplaced yes)
 		(effects
@@ -4092,7 +4092,7 @@
 		)
 		(uuid "f7400c3b-1a44-42db-9003-0c10f8b84efd")
 	)
-	(label "USB_DM"
+	(label "P_USB_N"
 		(at 97.79 92.71 180)
 		(fields_autoplaced yes)
 		(effects
